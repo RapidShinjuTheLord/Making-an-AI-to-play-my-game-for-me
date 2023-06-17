@@ -3,6 +3,7 @@ The code and files that I used for my reinforcement learning themed IB MYP perso
 
 ## Video Report:
 * Making an AI to play my game for me
+
 [![Making an AI to play my game for me](https://img.youtube.com/vi/NZcOcnKrRLk/0.jpg)](https://www.youtube.com/watch?v=NZcOcnKrRLk "Making an AI to play my game for me")
 * Footage of trained agents
 [![RL Agents](https://img.youtube.com/vi/AYqclvxRgSE/0.jpg)](https://www.youtube.com/watch?v=AYqclvxRgSE "My 9 RL Agents")
